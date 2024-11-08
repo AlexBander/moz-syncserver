@@ -1,4 +1,4 @@
-gevent==1.4.0
+gevent==24.10.1
 greenlet==0.4.14
 cornice==0.16.2
 gunicorn==19.10.0
