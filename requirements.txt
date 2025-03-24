@@ -1,7 +1,7 @@
 gevent==1.4.0
 greenlet==0.4.14
 cornice==0.16.2
-gunicorn==19.10.0
+gunicorn==23.0.0
 pyramid==1.10.4
 WebOb==1.8.5
 requests==2.22.0
