@@ -17,3 +17,6 @@ google-cloud-spanner==1.18.0
 psycopg2==2.8.6
 https://github.com/mozilla-services/tokenserver/archive/bf5f232ed78fb4eb89909ec5be40f135945aa514.zip
 https://github.com/mozilla-services/server-syncstorage/archive/d370a488155adeb80ee6f1bc016a4aa9d009f181.zip
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
